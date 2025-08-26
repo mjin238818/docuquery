@@ -28,3 +28,15 @@ Once sources are added, you can ask natural language questions, and the app will
 
 - *Summarize this PDF in 3 bullet points.*
 - *What are the key takeaways from the provided articles?*
+
+### 🔮 Future Work
+
+📂 Expand source support: Add ingestion for Word documents, Excel files, and plain text files.
+
+🔎 Enhanced retrieval: Experiment with hybrid search (sparse + dense retrieval) to improve answer quality.
+
+🚀 Deployment: Deploy the app on Streamlit Cloud / Hugging Face Spaces for public access.
+
+🧠 LLM flexibility: Add options to switch between multiple LLMs (Gemma, OpenAI, LLaMA, etc.)
+
+🎨 UI/UX: Improve user interface with chat history, better visualization of sources, and more interactive components.
