@@ -16,7 +16,7 @@ Once sources are added, you can ask natural language questions, and the app will
 
 ### 🛠 Installation
 
-- git clone https://github.com/<your-username>/docuquery.git
+- git clone https://github.com/mjin238818/docuquery.git
 - cd docuquery
 - pip install -r requirements.txt
 
@@ -26,5 +26,5 @@ Once sources are added, you can ask natural language questions, and the app will
 
 ⚡ Ask questions like:
 
-- ***Summarize this PDF in 3 bullet points.***
-- ***What are the key takeaways from the provided articles?***
+- *Summarize this PDF in 3 bullet points.*
+- *What are the key takeaways from the provided articles?*
